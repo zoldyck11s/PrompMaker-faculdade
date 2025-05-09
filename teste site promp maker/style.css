@@ -108,13 +108,13 @@ nav ul li a:hover {
   padding: 20px;
   border-radius: 10px;
   width: 280px;
-  box-shadow: 0 0 10px rgba(255, 77, 0, 0.2);
+  box-shadow: 0 0 10px rgba(255, 0, 240, 35%);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .produto:hover {
   transform: translateY(-5px);
-  box-shadow: 0 0 20px rgba(255, 77, 0, 0.4);
+  box-shadow: 0 0 20px rgba(255, 0, 240, 0.98);
 }
 
 .produto h3 {
